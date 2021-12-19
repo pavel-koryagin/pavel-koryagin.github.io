@@ -1,3 +1,9 @@
+---
+title: Navigation
+author: test
+date: 2021-12-19 20:28:00 +0700
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pavel-koryagin/pavel-koryagin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
